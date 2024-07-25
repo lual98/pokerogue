@@ -74,7 +74,7 @@ export const battle: SimpleTranslationEntries = {
   "statRoseDrastically": "¡El {{stats}} de {{pokemonNameWithAffix}} ha subido muchísimo!",
   "statWontGoAnyHigher": "¡El {{stats}} de {{pokemonNameWithAffix}} no puede subir más!",
   "statFell": "¡El {{stats}} de {{pokemonNameWithAffix}} ha bajado!",
-  "statHarshlyFell": "¡El {{stats}} de {{pokemonNameWithAffix}}} ha bajado mucho!",
+  "statHarshlyFell": "¡El {{stats}} de {{pokemonNameWithAffix}} ha bajado mucho!",
   "statSeverelyFell": "¡El {{stats}} de {{pokemonNameWithAffix}} ha bajado muchísimo!",
   "statWontGoAnyLower": "¡El {{stats}} de {{pokemonNameWithAffix}} no puede bajar más!",
   "ppReduced": "It reduced the PP of {{targetName}}'s\n{{moveName}} by {{reduction}}!",
